@@ -1,6 +1,6 @@
 #w2 text file handeling intro demo
 
-#steo one:import the csv liabary (comma seperated values)
+#step one:import the csv liabary (comma seperated values)
 import csv
 
 total_records = 0 #hold total number of records on file
